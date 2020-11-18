@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/TestYourSkill/static/css/main.2c148cff.chunk.css",
+    "main.js": "/TestYourSkill/static/js/main.3c41df99.chunk.js",
+    "main.js.map": "/TestYourSkill/static/js/main.3c41df99.chunk.js.map",
+    "runtime-main.js": "/TestYourSkill/static/js/runtime-main.506b7b56.js",
+    "runtime-main.js.map": "/TestYourSkill/static/js/runtime-main.506b7b56.js.map",
+    "static/js/2.70cae5a7.chunk.js": "/TestYourSkill/static/js/2.70cae5a7.chunk.js",
+    "static/js/2.70cae5a7.chunk.js.map": "/TestYourSkill/static/js/2.70cae5a7.chunk.js.map",
+    "index.html": "/TestYourSkill/index.html",
+    "static/css/main.2c148cff.chunk.css.map": "/TestYourSkill/static/css/main.2c148cff.chunk.css.map",
+    "static/js/2.70cae5a7.chunk.js.LICENSE.txt": "/TestYourSkill/static/js/2.70cae5a7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.506b7b56.js",
+    "static/js/2.70cae5a7.chunk.js",
+    "static/css/main.2c148cff.chunk.css",
+    "static/js/main.3c41df99.chunk.js"
+  ]
+}
